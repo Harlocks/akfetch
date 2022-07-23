@@ -1,5 +1,5 @@
-<div>
-<img src='.assets/akfetch.png' alt='Akfetch Logo'>
+<div align='center'>
+<img src='.assets/akfetch.png' alt='Akfetch Logo' width='200'>
 
 </div>
 
