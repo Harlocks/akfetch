@@ -14,15 +14,7 @@ clear
 
 # --- IMPORTS
 
-. /etc/os-release
-
-# --- COLORS
-
-blackB="$(tput setab 0)"
-blackF="$(tput setaf 0)"
-redB="$(tput setab 1)"
-redF="$(tput setaf 1)"
-greenB="$(tput setab 2)"
-greenF="$(tput setaf 2)"
-yellowB="$(tput setab 3)"
-yellowF="$(tput setaf 3)"
+for libs in ./include/*;
+do
+  source $libs
+done
