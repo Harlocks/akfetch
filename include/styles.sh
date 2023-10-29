@@ -1,3 +1,14 @@
+#!/bin/bash
+# -----------------------------------
+# Autor : Erick Robert
+# Email : h4rt3ck@pm.me
+# GitHub: https://github.com/harlocks
+# -----------------------------------
+# Data  : 29/10/2023
+# -----------------------------------
+# Biblioteca de cores usando o comando tput
+# -----------------------------------
+
 BG_BLACK="$(tput setab 0)"
 FG_BLACK="$(tput setaf 0)"
 BG_RED="$(tput setab 1)"
