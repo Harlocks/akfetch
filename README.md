@@ -13,7 +13,19 @@ Com o AKFetch, você vai ter uma experiência muito mais minimalista e amigável
 > Status e Roadmap das implementações e atualizações do AKFetch. Verde para `Feito`, laranja para `Em Desenvolvimento`, roxo para `Planejamento`.
 
 <div align="left">
-    <img src="assets/img/Done12px.png">
+    <img src="assets/img/Done10px.png">
     OpenSource
+    <br>
+    <img src="assets/img/Done10px.png">
+    Totalmente customizável
+    <br>
+    <img src="assets/img/Done10px.png">
+    Execução muito mais rápida que o neofetch
+    <br>
+    <img src="assets/img/Done10px.png">
+    Possibilidade de definir informações via linha de comando
+    <br>
+    <img src="assets/img/Done10px.png">
+    Suporte a módulos
     <br>
 </div>
