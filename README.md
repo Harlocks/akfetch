@@ -2,5 +2,5 @@
 <img src='assets/img/AKFETCH.png' alt='Akfetch Logo'>
 </div>
 <br>
-Um fetch 100% customizável, simples de editar, e com uma interface para definir as opções e informações que serão mostradas na sua tela.
+Com o AKFetch, você vai ter uma experiência muito mais minimalista. Com total suporte a customização via linha de comando, 
 
