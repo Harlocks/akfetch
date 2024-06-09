@@ -16,16 +16,19 @@ Com o AKFetch, você vai ter uma experiência muito mais minimalista e amigável
     <img src="assets/img/Done10px.png">
     OpenSource
     <br>
-    <img src="assets/img/Done10px.png">
+    <img src="assets/img/Developing10px.png">
+    Amigável e fácil de usar
+    <br>
+    <img src="assets/img/Planning10px.png">
     Totalmente customizável
     <br>
-    <img src="assets/img/Done10px.png">
+    <img src="assets/img/Planning10px.png">
     Execução muito mais rápida que o neofetch
     <br>
-    <img src="assets/img/Done10px.png">
+    <img src="assets/img/Planning10px.png">
     Possibilidade de definir informações via linha de comando
     <br>
-    <img src="assets/img/Done10px.png">
+    <img src="assets/img/Planning10px.png">
     Suporte a módulos
     <br>
 </div>
